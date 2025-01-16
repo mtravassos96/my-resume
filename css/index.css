@@ -1,0 +1,27 @@
+* {
+    box-sizing: border-box;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+body {
+    background-color: #a12e38;
+}
+
+main .tab {
+    float: left;
+    border: 1px solid #ccc;
+    background-color: black;
+    width: 30%;
+    height: 300px;
+}
+
+main .summary {
+    float: right;
+    padding: 0px 12px;
+    border: 1px solid #ccc;
+    background-color: black;
+    color: white;
+    width: 70%;
+    border-left: none;
+    height: 300px;
+}
